@@ -22,8 +22,6 @@ Struktur
 
 - Iterative Prototypenerstellung: Das Design durchlief drei Iterationen, bei denen der Detailgrad sukzessive erhöht wurde. Der High-Fidelity-Prototyp wurde durch Nutzer-Tests validiert und weiter verbessert.
 
-- Bild des iterativen Prototyping-Prozesses hier einfügen
-
 - Systemarchitektur (C4-Modell): Die Softwarearchitektur des Dashboards wurde mithilfe des C4-Modells erstellt, wobei die Systemkomponenten und deren Interaktionen definiert wurden.
 
 ![ReNuBiL_Dashboard_Intern](https://github.com/user-attachments/assets/c548c88f-c6d0-4788-b5d3-addb9a4f3654)
