@@ -1,2 +1,2 @@
 # ReNuBiL-Dashboard
-Dieses Repository enthält die Implementierung eines interaktiven Daten-Dashboards, das im Rahmen meiner Bachelorarbeit entwickelt wurde. Es folgt einem iterativen, menschenzentrierten Entwicklungsprozess und integriert sowohl Frontend- als auch Backend-Komponenten zur effektiven und effizienten Darstellung von Daten.
+Dieses Repository zeigt die Ergebnisse meiner Bachelorarbeit, in der ein interaktives Daten-Dashboard entwickelt wurde. Aufgrund sensibler Informationen, wie API-Schlüsseln, wird der vollständige Code nicht veröffentlicht. Hier finden Sie jedoch eine Showcase-Version mit Bildern des Dashboards und einer Beschreibung der wichtigsten Features und des Entwicklungsprozesses.
